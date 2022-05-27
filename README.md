@@ -1,3 +1,1 @@
 # QuizApp
-# QuizApp
-# MyQuizApp
